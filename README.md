@@ -6,6 +6,8 @@
 
 建议利用CMake进行编译：
 
+进入VO_g2o主目录：cd VO_g2o
+
 mkdir build
 
 cd build
